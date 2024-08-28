@@ -1,5 +1,5 @@
 # elliptic_curves_criptography
-	Demonstracao de Criptografia de Curvas Elipticas (ECC)
+	Demonstração de Criptografia de Curvas Elipticas (ECC)
 
 ## Descrição
 
